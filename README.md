@@ -33,16 +33,3 @@ This analysis is designed to help travel companies identify potential customer c
 
 To predict customer churn, a basic model was applied, achieving an overall accuracy of **69.7%**. The model showed higher precision in predicting non-booking customers, while future steps will focus on refining the predictions for bookings.
 
-## Future Work
-
-- **Refinement**: Further adjustments to enhance accuracy, especially for booking predictions.
-- **Additional Features**: Expanding the dataset with more features like loyalty program membership for better insights.
-
-## Installation
-
-To run the analysis on your machine, follow these steps:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/travel-churn-prediction.git
